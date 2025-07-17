@@ -1,0 +1,22 @@
+
+=== ARCHIVOS PRINCIPALES ===
+0
+Archivos Python encontrados:
+
+=== ARCHIVOS DE PRUEBA ===
+total 100
+drwxr-xr-x  2 ubuntu ubuntu  6144 Jul 15 18:42 .
+drwxr-xr-x 11 ubuntu ubuntu  6144 Jul 15 19:01 ..
+-rw-r--r--  1 ubuntu ubuntu  1498 Jul 15 18:38 Puntos.kmz
+-rw-r--r--  1 ubuntu ubuntu 12818 Jul 15 18:38 Transectas.gpx
+-rw-r--r--  1 ubuntu ubuntu  6467 Dec 31  1979 doc.kml
+-rw-r--r--  1 ubuntu ubuntu  6893 Jul 15 18:35 exportar_gui.py
+-rw-r--r--  1 ubuntu ubuntu  5037 Jul 15 18:35 extractor_gui.py
+-rw-r--r--  1 ubuntu ubuntu  4438 Jul 15 18:35 extractor_processing.py
+-rw-r--r--  1 ubuntu ubuntu  3361 Jul 15 18:35 gpx_gui.py
+-rw-r--r--  1 ubuntu ubuntu  4542 Jul 15 18:35 gpx_proceso.py
+-rw-r--r--  1 ubuntu ubuntu  6802 Jul 15 18:35 kmz_gui.py
+-rw-r--r--  1 ubuntu ubuntu  7008 Jul 15 18:35 processing.py
+-rw-r--r--  1 ubuntu ubuntu  8393 Jul 15 18:35 puntos.py
+./data/Puntos.kmz
+./data/Transectas.gpx
